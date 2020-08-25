@@ -24,7 +24,7 @@ import copy
 DEFAULT_DATA = {
     'administrator': {
         'name': 'Admin',
-        'pw': 'secret',
+        pw: 'secret',
         'is_author': False,
         'is_admin': True,
         'private_snippet': 'My password is secret. Get it?',
